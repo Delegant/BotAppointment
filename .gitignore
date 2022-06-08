@@ -1,0 +1,7 @@
+/src/main/resources/*.json
+current.properties
+default.properties
+.idea
+/target/
+src/test/
+*.txt
